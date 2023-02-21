@@ -1,21 +1,29 @@
+<p align="center">
+  <img width="100" height="100" src="https://github.com/terdim28/nodera/raw/main/logos/tRDM_logo.png">
+</p>
+<h2><p align="center">Hi there, I'm tRDM</p></h2>
 
-<h1><img margin-left=20% height="60" width="60" src="https://github.com/terdim28/nodera/raw/main/logos/tRDM_logo.png" /> Hi there, I'm tRDM</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&pause=500&color=28454D&width=435&lines=PoS+validator;testnet+partisipant;crypto+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&pause=500&center=true&vCenter=true&color=28454D&width=1070&lines=PoS+validator;testnet+partisipant;crypto+enthusiast)](https://git.io/typing-svg)
+I am passionate about blockchain, decentralized finance (DeFi), and other innovative applications of Web3 and always seeking new ways to learn, experiment, and contribute to the ecosystem. I value collaboration, transparency, and integrity in my work. In two years, I took part in more than 45 testnets, ZKP setup ceremonies and mainnet launches. 
 
-> In two years, I took part in more than 40 testnets, ZKP setup ceremonies and mainnet launches. I believe WEB3 can change the world and I want to be at the forefront. Nowadays, more and more people use Web3 projects, because Dapps become more convenient, faster and safer.  Taking into account the increasing number of users, for real decentralization,  will be needed more professional validators. I want to be one of them.
+> As validator, I ensure the security and stability of blockchain networks by running nodes and participating in consensus. I also provide feedback to developers and contribute to the development of new features.
 
- 
+> As investor, I evaluate projects based on their potential impact, innovation, and alignment with their values. I aim to support projects that have a positive impact on society and promote decentralization and empowerment.
+
+> As educator, I provide resources, tutorials, and mentorship to help others learn about Web3 technology and its potential applications. 
+
 <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/28454D" /> <a href="https://twitter.com/tRDM_2598">@tRDM_2598</a>  
 <img height="16" width="16" src="https://cdn.simpleicons.org/discord/28454D" /> <a href="https://discordapp.com/users/844196216501698560">tRDM#2598</a>  
 <img height="16" width="16" src="https://cdn.simpleicons.org/gmail/28454D" /> terdim28@gmail.com
 
 ## Nodera
+In the summer of '22, I founded Nodera - a group committed to establishing a community of expert validators to drive the advancement of Web3 technology. We offer support to networks, create educational content, and assist projects in creating a better future. Nodera is devoted to facilitating the development of Web3 and creating a collaborative environment for all stakeholders.
  
 <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/28454D" /> <a href="https://twitter.com/NoderaTech">@NoderaTech</a>  
 <img height="16" width="16" src="https://cdn.simpleicons.org/discord/28454D" /> <a href="https://discord.gg/TmnKznRqnv">Nodera</a>  
-<img height="16" width="16" src="https://cdn.simpleicons.org/site/28454D" /> <a href="http://nodera.org/ ">Guides</a>  
-<img height="16" width="16" src="https://github.com/terdim28/nodera/raw/main/logo.png" /> <a href="http://explorer.nodera.org/ ">Explorer</a>  
+<img height="16" width="16" src="https://cdn.simpleicons.org/googlechrome/28454D" /> <a href="http://nodera.org/ ">Web</a>  
+<img height="16" width="16" src="https://github.com/terdim28/nodera/raw/main/logos/nodera_simple_logo.png" /> <a href="http://explorer.nodera.org/ ">Explorer</a>  
 
 ## Portfolio
 
@@ -38,7 +46,7 @@
 | Project      |Status| Place    | Jailed |Valoper & Links |
 | ------------ |:-----:|:--------:|:------:| ------ | 
 | <img height="18" width="18" src="https://cryptototem.com/wp-content/uploads/2022/10/OKP4-logo.jpg" /> [Okp4](https://okp4.network/) | Active | 10/150 | No | [okp4valoper14y9j2e7lqy0cr3nd5w73esuqtx07pse37hy5z5](https://nemeton.okp4.network/druid/okp4valoper14y9j2e7lqy0cr3nd5w73esuqtx07pse37hy5z5#profile) |
-|<img height="18" width="18" src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" /> [Sui](https://sui.io/)|Active|top 500|No| https://sui.explorers.guru/node/ IP: 88.198.18.88 |
+|<img height="18" width="18" src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" /> [Sui](https://sui.io/)|Active|top 500|No| [https://88.198.18.88](https://sui.explorers.guru/node/) |
 |<img height="18" width="18" src="https://islamiccoin.net/mediakit/v2/islamic-mark.png" /> [Islamic](https://islamiccoin.net/)| Active | 19/628 | No | [haqqvaloper1wh2wf0ahp9m3spdeje5jlmc7vn007jev2x9gkn](http://explorer.nodera.org/haqq/staking/haqqvaloper1wh2wf0ahp9m3spdeje5jlmc7vn007jev2x9gkn) |
 |<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" /> [Massa](https://massa.net/)|Active| top 200 | No | [A19deNpBfhecmbD4W3oYHU9x4ixsxhowgQQxkPgzxxgcW7t7itC](https://massa.net/testnet/A19deNpBfhecmbD4W3oYHU9x4ixsxhowgQQxkPgzxxgcW7t7itC/)               |
 | <img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| Active | 94/100 | No | [gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](http://explorer.nodera.org/gitopia_janus_2/staking/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt) |
@@ -60,10 +68,37 @@
 |<img height="18" width="18" src="https://nois.network/logo.png" /> [Nois](https://nois.network/)| Inactive | 60/262 | No | [noisvaloper1e0lvgjx4xspw358rfypmp297szupedu06jg6jg](http://explorer.nodera.org/nois-003/staking/noisvaloper1e0lvgjx4xspw358rfypmp297szupedu06jg6jg) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" /> [Celestia](https://celestia.org/)| Inactive | 244/1582 | No | [celestiavaloper1dg7m6tl5jh6vz4jvy7934ss82pahfwje22c6t6](https://celestia.explorers.guru/validator/celestiavaloper1dg7m6tl5jh6vz4jvy7934ss82pahfwje22c6t6) |
 
-### Previous tetsnets:
+### Completed tetsnets
+#### Cosmos ecosystem 
+[<img height="40" width="40" src="https://poolbay.io/images/cards/umee-card.png" />](https://umee.cc/)
+[<img height="40" width="34" src="https://agoric.com/wp-content/themes/agoric_2021_theme/assets/LOGO/SYMBOL/PNG/bld-logo.png" />](https://agoric.com/)
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1595092806011191305/koqPJsUX_400x400.png" />](https://evmos.org/)
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/64080398?s=280&v=4" />](https://omniflix.network/)
+[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/150x150.sei_network1661962346631.png" />](https://www.seinetwork.io/)
+[<img height="40" width="40" src="https://styles.redditmedia.com/t5_6phggr/styles/communityIcon_rl5e61eimpb91.png" />](https://www.stride.zone/)
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1513865442170974209/YKF-ZCez_400x400.png" />](https://www.rebuschain.com/)
+#### Polkadot ecosystem 
+[<img height="40" width="40" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" />](https://www.manta.network/)
+[<img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Hw-L_sK3jnJEuNxp6IqGnCXGOfgFfBFliFIE7Jjbsg&s" />](https://bit.country/)
+[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/polkadex1618485126958.png" />](https://polkadex.trade/)
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/79349007?s=200&v=4" />](https://pontem.network/)
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1382564944198078464/-7D9uyig_400x400.jpg" />](https://subspace.network/)
+#### Ethereum ecosystem:
+[<img height="40" width="40" src="https://docs.vega.xyz/img/logo-y.png" />](https://vega.xyz/ru/)
+[<img height="40" width="40" src="https://scroll.io/logo.png" />](https://scroll.io/)
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1545019840993320962/x1FFDd1C_400x400.jpg" />](https://aztec.network/)
 
+#### Other projects
+[<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2020/06/SoyD-UGQ_400x400.jpg" />](https://hoprnet.org/)
+[<img height="40" width="40" src="https://nymtech.net/images/social/logo-icon.png" />](https://nymtech.net/)
+[<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" />](https://www.aleo.org/)
+[<img height="40" width="40" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" />](https://near.org/)
+[<img height="40" width="40" src="https://icoholder.com/media/cache/ico_logo_view_page/files/img/7037eff01160f8cec99555e9243297c4.jpeg" />](https://www.kyve.network/)
+[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/oasys_games1662382971929.png" />](https://www.oasys.games/)
+[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/archway1668000126543.png" />](https://archway.io/)
+[<img height="40" width="40" src="https://miro.medium.com/max/2400/1*yOy-Qi6v2MIEat5OsyJOpw.png" />](https://subquery.network/)
+[<img height="40" width="40" src="https://aptosfoundation.org/assets/logomark/PNG/Aptos_mark_BLK-909b80e008685d22df54870ca38313008c2c15f0.png" />](https://aptoslabs.com/)
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/95705074?s=200&v=4" />](https://www.espressosys.com/)
 
-
-
-
+### One joke for a good mood
 ![Jokes Card](https://readme-jokes.vercel.app/api)
