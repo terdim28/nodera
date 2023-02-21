@@ -1,5 +1,5 @@
 NC="\e[0m"
-MARGENTA="\e[1m\e[1;95m"
+MARGENTA="\e[1m\e[1;35m"
 RED="\e[1m\e[1;91m"
 
 function printLogo {
