@@ -1,6 +1,7 @@
 Hi, I'm tRDM
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&pause=500&color=28454D&center=true&vCenter=true&width=435&lines=PoS+validator;testnet+partisipant;crypto+enthusiast)](https://git.io/typing-svg)
+
 I believe WEB3 can change the world and I want to be at the forefront. Nowadays, more and more people use Web3 projects, because Dapps become more convenient, faster and safer.  Taking into account the increasing number of users, for real decentralization,  will be needed more professional validators. I want to be one of them.
 
 
@@ -33,6 +34,7 @@ Mainnets:
 
 
 Actual testnets:
+
 Massa - https://massa.net/testnet/A19deNpBfhecmbD4W3oYHU9x4ixsxhowgQQxkPgzxxgcW7t7itC
 Celestia - https://celestia.explorers.guru/validator/celestiavaloper1dg7m6tl5jh6vz4jvy7934ss82pahfwje22c6t6
 Bundlr - https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4, account :QPOyvHz-6yFp90i-En4rK1_bsUwZ7N2UPXHFt7YH9Z8
