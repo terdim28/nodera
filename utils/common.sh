@@ -1,5 +1,5 @@
 NC="\e[0m"
-CYAN="\e[1m\e[1;96m"
+MARGENTA="\e[1m\e[1;95m"
 RED="\e[1m\e[1;91m"
 
 function printLogo {
@@ -10,8 +10,8 @@ function printLine {
   echo "---------------------------------------------------------------------------------------"
 }
 
-function printCyan {
-  echo -e "${CYAN}${1}${NC}"
+function printMargenta {
+  echo -e "${MARGENTA}${1}${NC}"
 }
 
 function printRed {
