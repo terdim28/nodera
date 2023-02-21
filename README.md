@@ -36,10 +36,10 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### ZKP ceremonies
 | Project | Number | Address | Date|
 | ------- |:------:| ------- | ---|
-|<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" /> [Aleo](https://www.aleo.org/)|#215    |aleo1r0rrtx96nayds0pwq5yrgwac7r256msaax8nspk7d0mus7dsfc8qvn4r7q|2021, November 6|
-|<img height="18" width="18" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" /> [Manta Network](https://www.manta.network/)|#220|018f88ff04831419bc6c4d70ae4e89dc|2022, November 29|
-|<img height="18" width="18" src="https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-11662225468t3ckimsgp8.png" /> [Etherium KZG](https://ceremony.ethereum.org/)|#7838|0xcab79fc4a49051ff0f7bccf93382855dc752662|2023, January 27|
-|<img height="18" width="18" src="https://ironfish.network/img/about/coins.svg" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|2023, February 15|
+|<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" /> [Aleo](https://www.aleo.org/)|#215    |aleo1r0rrtx96nayds0pwq5yrgwac7r256msaax8nspk7d0mus7dsfc8qvn4r7q|11/2021|
+|<img height="18" width="18" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" /> [Manta Network](https://www.manta.network/)|#220|018f88ff04831419bc6c4d70ae4e89dc|11/2022|
+|<img height="18" width="18" src="https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-11662225468t3ckimsgp8.png" /> [Etherium KZG](https://ceremony.ethereum.org/)|#7838|0xcab79fc4a49051ff0f7bccf93382855dc752662|01/2023|
+|<img height="18" width="18" src="https://ironfish.network/img/about/coins.svg" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|02/2023|
 
 ### Current testnets
 
