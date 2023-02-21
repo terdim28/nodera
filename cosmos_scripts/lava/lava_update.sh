@@ -9,7 +9,8 @@ git clone https://github.com/lavanet/lava
 cd lava || return
 git checkout v0.6.0
 make install
-lavad version
 sudo mv $HOME/go/bin/lavad /usr/local/bin/lavad
+
+lavad version
 
 sudo systemctl restart lavad
