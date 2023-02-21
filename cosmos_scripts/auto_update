@@ -15,22 +15,22 @@ done
 
 printLogo
 
-echo -e "Your ${CYAN}$CHAIN_NAME${NC} node will be upgraded to version ${CYAN}$VERSION${NC} on block height ${CYAN}$TARGET_BLOCK${NC}" && sleep 1
+echo -e "Your ${MARGENTA}$CHAIN_NAME${NC} node will be upgraded to version ${MARGENTA}$VERSION${NC} on block height ${MARGENTA}$TARGET_BLOCK${NC}" && sleep 1
 echo ""
 
 for (( ; ; )); do
   height=$($BINARY status 2>&1 | jq -r .SyncInfo.latest_block_height)
   if ((height >= TARGET_BLOCK)); then
-    bash <(curl -s https://raw.githubusercontent.com/terdim28/nodera/main/cosmos_scripts/lava/lava_update.sh)
-    printCyan "Your node was successfully upgraded to version: $VERSION" && sleep 1
+    bash <(curl -s https://raw.githubusercontent.com/terdim28/nodera/main/cosmos_scripts/okp4/okp4_update.sh)
+    printMargenta "Your node was successfully upgraded to version: $VERSION" && sleep 1
     $BINARY version --long | head
     break
   else
-    echo -e "Current block height: ${CYAN}$height${NC}"
+    echo -e "Current block height: ${MARGENTA}$height${NC}"
   fi
   sleep 5
 done
 
 printLine
-echo -e "Check logs:            ${CYAN}sudo journalctl -u $BINARY_NAME -f --no-hostname -o cat ${NC}"
-echo -e "Check synchronization: ${CYAN}$BINARY_NAME status 2>&1 | jq .SyncInfo.catching_up${NC}"
+echo -e "Check logs:            ${MARGENTA}sudo journalctl -u $BINARY_NAME -f --no-hostname -o cat ${NC}"
+echo -e "Check synchronization: ${MARGENTA}$BINARY_NAME status 2>&1 | jq .SyncInfo.catching_up${NC}"
