@@ -30,7 +30,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links |
 | ------- |:---------:|:-----:|
-| <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25 200 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
+| <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25 311 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
 | <img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7 154 NYM|https://explorer.nymtech.net/network-components/mixnode/717|
 
 ### ZKP ceremonies
