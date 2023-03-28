@@ -30,8 +30,10 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links |
 | ------- |:---------:|:-----:|
-| <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25 386 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
+| <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25 643 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
 | <img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7 180 NYM|https://explorer.nymtech.net/network-components/mixnode/717|
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|40 000 NOIS|https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556|
+
 
 ### ZKP ceremonies
 | Project | Number | Address | Date|
@@ -66,7 +68,6 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://img.api.cryptorank.io/coins/shardeum1665056595732.png" /> [Shardeum](https://shardeum.org/)| Active | n/a | No | https://95.216.2.232:12080/performance |
 |<img height="18" width="18" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/bljg7forbakru4e0cnhx" /> [Chainflip](https://chainflip.io/)| Inactive | n/a | No | [cFLNozABkHcR8TFC6nK3p1FnvLYx9TntKaYzhicEg3NcUWPwX](https://blocks-perseverance.chainflip.io/validator/cFLNozABkHcR8TFC6nK3p1FnvLYx9TntKaYzhicEg3NcUWPwX) |
 |<img height="18" width="18" src="https://avatars.githubusercontent.com/u/103436687?s=200&v=4" /> [Nolus](https://nolus.io/)| Inactive | 93/541 | No | [nolusvaloper1wk0s2249hrskrzmflkp9u43yrxlnra6yxklwwq](http://explorer.nodera.org/nolus/staking/nolusvaloper1wk0s2249hrskrzmflkp9u43yrxlnra6yxklwwq) |
-|<img height="18" width="18" src="https://nois.network/logo.png" /> [Nois](https://nois.network/)| Inactive | 60/262 | No | [noisvaloper1e0lvgjx4xspw358rfypmp297szupedu06jg6jg](http://explorer.nodera.org/nois-003/staking/noisvaloper1e0lvgjx4xspw358rfypmp297szupedu06jg6jg) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" /> [Celestia](https://celestia.org/)| Inactive | 244/1582 | No | [celestiavaloper1dg7m6tl5jh6vz4jvy7934ss82pahfwje22c6t6](https://celestia.explorers.guru/validator/celestiavaloper1dg7m6tl5jh6vz4jvy7934ss82pahfwje22c6t6) |
 
 ### Completed tetsnets
