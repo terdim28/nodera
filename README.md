@@ -4,7 +4,7 @@
 <h2><p align="center">Hi there, I'm tRDM</p></h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&pause=500&center=true&vCenter=true&color=28454D&width=1070&lines=PoS+validator;testnet+partisipant;crypto+enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=30&pause=500&center=true&vCenter=true&color=28454D&width=1070&lines=PoS+validator;testnet+partiсipant;crypto+enthusiast)](https://git.io/typing-svg)
 I am passionate about blockchain, decentralized finance (DeFi), and other innovative applications of Web3 and always looking for new ways to learn, experiment, and contribute to the ecosystem. I value collaboration, transparency, and integrity in my work. In two years, I took part in more than 45 testnets, ZKP setup ceremonies and mainnet launches. 
 
 > As validator, I ensure the security and stability of blockchain networks by running nodes and participating in consensus. I also provide feedback to projects team and contribute to the development of new features.
