@@ -32,7 +32,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 | ------- |:---------:|:-----:|
 | <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25643 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
 | <img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7180 NYM|https://explorer.nymtech.net/network-components/mixnode/717|
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|40000 NOIS|https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556|
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|160000 NOIS|https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556|
 
 
 ### ZKP ceremonies
