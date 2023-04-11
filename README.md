@@ -55,15 +55,12 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 | <img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| Active | 94/100 | No | [gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](http://explorer.nodera.org/gitopia_janus_2/staking/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1456245067149103104/CrNB0cKl_400x400.jpg" /> [Penumbra](https://penumbra.zone/) | Active | 44/80 | No | [penumbravalcons1xxjpnmq59hcl7h6m5t5hpgeph7p8cgupupq8ea](http://penumbra.zpoken.io/validators/penumbravalcons1xxjpnmq59hcl7h6m5t5hpgeph7p8cgupupq8ea) |
 | <img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/10/ObolNetwork_logo.jpeg" /> [Obol](https://obol.tech/) | Active | n/a | No | [0x866f572ccf024961f6fab1278137bdc30f91d2f540279f129b616c9da108769d42c9f95f](https://goerli.beaconcha.in/validator/0x866f572ccf024961f6fab1278137bdc30f91d2f540279f129b616c9da108769d42c9f95f6e0034ed2017db5e73fe911e#charts/) |
-|<img height="18" width="18" src="https://ironfish.network/img/about/coins.svg" /> [Ironfish](https://ironfish.network/) | Active | 2.3k/120k | No |https://testnet.ironfish.network/users/56919 | 
 |<img height="18" width="18" src="https://styles.redditmedia.com/t5_77032n/styles/communityIcon_rfku9lqr1xv91.jpg" /> [Namada](https://namada.net/) | Active | 10/117| No | [atest1v4ehgw368pq5yv...6nx3jyxpryvvesvvdgx3](https://namada.explorers.guru/validators/) |
 |<img height="18" width="18" src="https://assets-global.website-files.com/6364e65656ab107e465325d2/63816d774a2b8e639d950a5e_PHw4Q7-H6dpiQ-YEKbrA8sjl7S-TAldHxeq8tzNm8bc.jpeg" /> [Lava](https://lavanet.xyz/) | Active | 45/648 | No | [lava@valoper1949s3x950fragvcv4yh3qe5dfd3kr30yagw2jg](http://explorer.nodera.org/lava/staking/lava@valoper1949s3x950fragvcv4yh3qe5dfd3kr30yagw2jg) |
 |<img height="18" width="18" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/mzervh0bcbifydmqk8gm" /> [Bundlr](https://bundlr.network/)| Active | n/a | No | [QPOyvHz-6yFp90i-En4rK1_bsUwZ7N2UPXHFt7YH9Z8](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4/) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" /> [Ojo](https://ojo.network/)| Active | 34/205 | No | [ojovaloper1xupket8vnapckzj0mkd9e3y0w65c9jp9ewtm42](https://ojo.explorers.guru/validator/ojovaloper1xupket8vnapckzj0mkd9e3y0w65c9jp9ewtm42) |
 |<img height="18" width="18" src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c3e17eb0e3930d04ddd8_hero-nebula-logo-svg.svg" /> [Andromeda](https://andromedaprotocol.io/)| Active | 60/292 | No | [andrvaloper1dhj6xpludwxhx8k8gv5c3exkfcnsfvl8dyeqjh](http://explorer.nodera.org/andromeda/staking/andrvaloper1dhj6xpludwxhx8k8gv5c3exkfcnsfvl8dyeqjh) |
-|<img height="18" width="18" src="https://miro.medium.com/max/2400/1*o1LDqDBVdhmKiwfzKc42BA.jpeg" /> [Mars](https://marsprotocol.io/)| Active | 31/342 | No | [marsvaloper1tpujsnwfwrrttn2trl0hxjr25vfrx48rprt5ea](http://explorer.nodera.org/mars/staking/marsvaloper1tpujsnwfwrrttn2trl0hxjr25vfrx48rprt5ea) |
 |<img height="18" width="18" src="https://cryptocurrencyjobs.co/startups/assets/logos/fleek.png" /> [Fleek](https://fleek.network/)| Active | n/a | No | n/a |
-|<img height="18" width="18" src="https://ffnews.com/wp-content/uploads/2022/07/1634502766235.jpg" /> [Minima](https://www.minima.global/)| Active | n/a | No | UID: 3610a4d0-383a-48ba-aa8f-5b0ce30078c8 |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg" /> [Taiko](https://taiko.xyz/)| Active | n/a | No | [0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9](https://l2explorer.a1.taiko.xyz/address/0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9) |
 |<img height="18" width="18" src="https://img.api.cryptorank.io/coins/shardeum1665056595732.png" /> [Shardeum](https://shardeum.org/)| Active | n/a | No | https://95.216.2.232:12080/performance |
 |<img height="18" width="18" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/bljg7forbakru4e0cnhx" /> [Chainflip](https://chainflip.io/)| Inactive | n/a | No | [cFLNozABkHcR8TFC6nK3p1FnvLYx9TntKaYzhicEg3NcUWPwX](https://blocks-perseverance.chainflip.io/validator/cFLNozABkHcR8TFC6nK3p1FnvLYx9TntKaYzhicEg3NcUWPwX) |
@@ -72,14 +69,14 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 
 ### Completed tetsnets
 #### Cosmos ecosystem 
-[<img height="40" width="40" src="https://poolbay.io/images/cards/umee-card.png" />](https://umee.cc/)
-[<img height="40" width="34" src="https://agoric.com/static/bld-logo-6008405f316c5107ff4338597262f3cb.png" />](https://agoric.com/)
-[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1595092806011191305/koqPJsUX_400x400.png" />](https://evmos.org/)
-[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/64080398?s=280&v=4" />](https://omniflix.network/)
-[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/150x150.sei_network1661962346631.png" />](https://www.seinetwork.io/)
+[<img height="40" width="40" src="https://miro.medium.com/max/2400/1*o1LDqDBVdhmKiwfzKc42BA.jpeg" />](https://marsprotocol.io/)
 [<img height="40" width="40" src="https://styles.redditmedia.com/t5_6phggr/styles/communityIcon_rl5e61eimpb91.png" />](https://www.stride.zone/)
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1513865442170974209/YKF-ZCez_400x400.png" />](https://www.rebuschain.com/)
-[<img height="40" width="40" src="https://s2.coinmarketcap.com/static/img/coins/200x200/15584.png" />](https://humans.ai/)
+[<img height="40" width="40" src="https://img.api.cryptorank.io/coins/150x150.sei_network1661962346631.png" />](https://www.seinetwork.io/)
+[<img height="40" width="40" src="https://avatars.githubusercontent.com/u/64080398?s=280&v=4" />](https://omniflix.network/)
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1595092806011191305/koqPJsUX_400x400.png" />](https://evmos.org/)
+[<img height="40" width="40" src="https://poolbay.io/images/cards/umee-card.png" />](https://umee.cc/)
+[<img height="40" width="34" src="https://agoric.com/static/bld-logo-6008405f316c5107ff4338597262f3cb.png" />](https://agoric.com/)
 #### Polkadot ecosystem 
 [<img height="40" width="40" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" />](https://www.manta.network/)
 [<img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Hw-L_sK3jnJEuNxp6IqGnCXGOfgFfBFliFIE7Jjbsg&s" />](https://bit.country/)
@@ -91,12 +88,14 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 [<img height="40" width="40" src="https://scroll.io/logo.png" />](https://scroll.io/)
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1545019840993320962/x1FFDd1C_400x400.jpg" />](https://aztec.network/)
 
-#### Other projects
-[<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2020/06/SoyD-UGQ_400x400.jpg" />](https://hoprnet.org/)
+#### Other projects 
+[<img height="40" width="40" src="https://ironfish.network/img/about/coins.svg" />](https://ironfish.network/)
+[<img height="40" width="40" src="https://ffnews.com/wp-content/uploads/2022/07/1634502766235.jpg" />](https://www.minima.global/)
 [<img height="40" width="40" src="https://nymtech.net/images/social/logo-icon.png" />](https://nymtech.net/)
 [<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" />](https://www.aleo.org/)
 [<img height="40" width="40" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" />](https://near.org/)
 [<img height="40" width="40" src="https://icoholder.com/media/cache/ico_logo_view_page/files/img/7037eff01160f8cec99555e9243297c4.jpeg" />](https://www.kyve.network/)
+[<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2020/06/SoyD-UGQ_400x400.jpg" />](https://hoprnet.org/)
 [<img height="40" width="40" src="https://img.api.cryptorank.io/coins/oasys_games1662382971929.png" />](https://www.oasys.games/)
 [<img height="40" width="40" src="https://img.api.cryptorank.io/coins/archway1668000126543.png" />](https://archway.io/)
 [<img height="40" width="40" src="https://miro.medium.com/max/2400/1*yOy-Qi6v2MIEat5OsyJOpw.png" />](https://subquery.network/)
