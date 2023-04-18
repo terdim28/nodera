@@ -41,7 +41,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" /> [Aleo](https://www.aleo.org/)|#215    |aleo1r0rrtx96nayds0pwq5yrgwac7r256msaax8nspk7d0mus7dsfc8qvn4r7q|11/2021|
 |<img height="18" width="18" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" /> [Manta Network](https://www.manta.network/)|#220|018f88ff04831419bc6c4d70ae4e89dc|11/2022|
 |<img height="18" width="18" src="https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-11662225468t3ckimsgp8.png" /> [Etherium KZG](https://ceremony.ethereum.org/)|#7838|0xcab79fc4a49051ff0f7bccf93382855dc752662|01/2023|
-|<img height="18" width="18" src="https://ironfish.network/img/about/coins.svg" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|02/2023|
+|<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/04/IronFish_logo.jpg" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|02/2023|
 
 ### Current testnets
 
@@ -60,6 +60,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/mzervh0bcbifydmqk8gm" /> [Bundlr](https://bundlr.network/)| Active | n/a | No | [QPOyvHz-6yFp90i-En4rK1_bsUwZ7N2UPXHFt7YH9Z8](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4/) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1603111084583358464/hQ4S0cA0_400x400.jpg" /> [Ojo](https://ojo.network/)| Active | 34/205 | No | [ojovaloper1xupket8vnapckzj0mkd9e3y0w65c9jp9ewtm42](https://ojo.explorers.guru/validator/ojovaloper1xupket8vnapckzj0mkd9e3y0w65c9jp9ewtm42) |
 |<img height="18" width="18" src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c3e17eb0e3930d04ddd8_hero-nebula-logo-svg.svg" /> [Andromeda](https://andromedaprotocol.io/)| Active | 60/292 | No | [andrvaloper1dhj6xpludwxhx8k8gv5c3exkfcnsfvl8dyeqjh](http://explorer.nodera.org/andromeda/staking/andrvaloper1dhj6xpludwxhx8k8gv5c3exkfcnsfvl8dyeqjh) |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1591262611617722370/VkRLHBBe_400x400.jpg" /> [Cascadia](https://celestia.org/)| Active | 33/200 | No | [cascadiavaloper1jnpx8u3xxv7kehp88jxyk3jyyudklluwgumn8f](http://explorer.nodera.org/cascadia/staking/cascadiavaloper1jnpx8u3xxv7kehp88jxyk3jyyudklluwgumn8f) |
 |<img height="18" width="18" src="https://cryptocurrencyjobs.co/startups/assets/logos/fleek.png" /> [Fleek](https://fleek.network/)| Active | n/a | No | n/a |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1601055081675325440/ycMVxfJt_400x400.jpg" /> [Taiko](https://taiko.xyz/)| Active | n/a | No | [0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9](https://l2explorer.a1.taiko.xyz/address/0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9) |
 |<img height="18" width="18" src="https://img.api.cryptorank.io/coins/shardeum1665056595732.png" /> [Shardeum](https://shardeum.org/)| Active | n/a | No | https://95.216.2.232:12080/performance |
@@ -89,7 +90,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1545019840993320962/x1FFDd1C_400x400.jpg" />](https://aztec.network/)
 
 #### Other projects 
-[<img height="40" width="40" src="https://ironfish.network/img/about/coins.svg" />](https://ironfish.network/)
+[<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/IronFish_logo.jpg" />](https://ironfish.network/)
 [<img height="40" width="40" src="https://ffnews.com/wp-content/uploads/2022/07/1634502766235.jpg" />](https://www.minima.global/)
 [<img height="40" width="40" src="https://nymtech.net/images/social/logo-icon.png" />](https://nymtech.net/)
 [<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" />](https://www.aleo.org/)
