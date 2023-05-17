@@ -30,9 +30,10 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links |
 | ------- |:---------:|:-----:|
-| <img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25670 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
-| <img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7180 NYM|https://explorer.nymtech.net/network-components/mixnode/717|
+|<img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|25670 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard|
+|<img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7180 NYM|https://explorer.nymtech.net/network-components/mixnode/717|
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|200000 NOIS|https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556|
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 712 LORE |https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt|
 
 
 ### ZKP ceremonies
@@ -52,7 +53,6 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://islamiccoin.net/mediakit/v2/islamic-mark.png" /> [Islamic](https://islamiccoin.net/)| Active | 19/628 | No | [haqqvaloper1wh2wf0ahp9m3spdeje5jlmc7vn007jev2x9gkn](http://explorer.nodera.org/haqq/staking/haqqvaloper1wh2wf0ahp9m3spdeje5jlmc7vn007jev2x9gkn) |
 |<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" /> [Massa](https://massa.net/)|Active| top 200 | No | [A19deNpBfhecmbD4W3oYHU9x4ixsxhowgQQxkPgzxxgcW7t7itC](https://massa.net/testnet/A19deNpBfhecmbD4W3oYHU9x4ixsxhowgQQxkPgzxxgcW7t7itC/)               |
 |<img height="18" width="18" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/a4ode3gz2nkmgmkrnhdi" /> [Nibiru](https://nibiru.fi/)| Active | 29/673 | No | [nibivaloper105tes4pxs84r8zy2xlc5ejy3pz23290n850pnl](http://explorer.nodera.org/nibiru/staking/nibivaloper105tes4pxs84r8zy2xlc5ejy3pz23290n850pnl) |
-| <img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| Active | 94/100 | No | [gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](http://explorer.nodera.org/gitopia_janus_2/staking/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt) |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1456245067149103104/CrNB0cKl_400x400.jpg" /> [Penumbra](https://penumbra.zone/) | Active | 44/80 | No | [penumbravalcons1xxjpnmq59hcl7h6m5t5hpgeph7p8cgupupq8ea](http://penumbra.zpoken.io/validators/penumbravalcons1xxjpnmq59hcl7h6m5t5hpgeph7p8cgupupq8ea) |
 | <img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/10/ObolNetwork_logo.jpeg" /> [Obol](https://obol.tech/) | Active | n/a | No | [0x866f572ccf024961f6fab1278137bdc30f91d2f540279f129b616c9da108769d42c9f95f](https://goerli.beaconcha.in/validator/0x866f572ccf024961f6fab1278137bdc30f91d2f540279f129b616c9da108769d42c9f95f6e0034ed2017db5e73fe911e#charts/) |
 |<img height="18" width="18" src="https://styles.redditmedia.com/t5_77032n/styles/communityIcon_rfku9lqr1xv91.jpg" /> [Namada](https://namada.net/) | Active | 10/117| No | [atest1v4ehgw368pq5yv...6nx3jyxpryvvesvvdgx3](https://namada.explorers.guru/validators/) |
@@ -70,6 +70,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 
 ### Completed tetsnets
 #### Cosmos ecosystem 
+[<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" />](https://gitopia.com/)
 [<img height="40" width="40" src="https://miro.medium.com/max/2400/1*o1LDqDBVdhmKiwfzKc42BA.jpeg" />](https://marsprotocol.io/)
 [<img height="40" width="40" src="https://styles.redditmedia.com/t5_6phggr/styles/communityIcon_rl5e61eimpb91.png" />](https://www.stride.zone/)
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1513865442170974209/YKF-ZCez_400x400.png" />](https://www.rebuschain.com/)
