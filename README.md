@@ -34,7 +34,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7 212 NYM|https://explorer.nymtech.net/network-components/mixnode/717||
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|387 745 NOIS|[noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556](https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556)| Yes |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 401 799 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 8 196 821 PICA |[banksyvaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0gdzfaq](https://explorer.nodexcapital.com/composable/staking/banksyvaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0gdzfaq)| Yes |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 8 196 821 PICA |[centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne](https://explorer.nodexcapital.com/composable/staking/centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne)| Yes |
 
 ### ZKP ceremonies
 | Project | Number | Address | Date|
