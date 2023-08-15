@@ -68,7 +68,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1610685170763591685/ODRWYqwY_400x400.jpg" /> [Elixir](https://elixir.finance/)| Active | 796/14200 | No | [0x5aAa71312455676861Cf8Ad1EaD215CBd274C50b](https://dashboard.elixir.finance/leaderboard) |
 |<img height="18" width="18" src="https://cryptocurrencyjobs.co/startups/assets/logos/fleek.png" /> [Fleek](https://fleek.network/)| Active | n/a | No | n/a |
 |<img height="18" width="18" src="https://cdn.dribbble.com/userupload/7958487/file/original-1348331c2846a04355261f363fb75f0c.png" /> [Taiko](https://taiko.xyz/)| Active | n/a | No | [0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9](https://l2explorer.a1.taiko.xyz/address/0x09A3b3Ab524663e15Aa6Bd886EB2A3018af721e9) |
-|<img height="18" width="18" src="https://avatars.githubusercontent.com/u/25123050?s=280&v=4" /> [Althea](https://www.althea.net/)| Active | 95/110 | No | [altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9](https://althea.explorers.guru/validator/altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9) |
+|<img height="18" width="18" src="https://avatars.githubusercontent.com/u/25123050?s=280&v=4" /> [Althea](https://www.althea.net/)| Active | 30/110 | No | [altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9](https://althea.explorers.guru/validator/altheavaloper1w0zed349g9vlwd397dfrmkx6yhlje9rv7ml6j9) |
 
 
 ### Completed tetsnets
