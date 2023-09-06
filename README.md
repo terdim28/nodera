@@ -30,11 +30,11 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links | Genesis |
 | ------- |:---------:|:-----:|:-------:|
-|<img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|26 296 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard||
-|<img height="18" width="18" src="https://nymtech.net/images/social/logo-icon.png" /> NYM|7 469 NYM|https://explorer.nymtech.net/network-components/mixnode/717||
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|300 087 NOIS|[noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556](https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556)| Yes |
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 401 799 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 9 652 321 PICA |[centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne](https://explorer.nodexcapital.com/composable/staking/centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne)| Yes |
+|<img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|69 078 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard||
+|<img height="18" width="18" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgQopZeDpOX85nkYWmpbCJeVd0VjoOwV4f60H5Pc&s" /> NYM|7 469 NYM|https://explorer.nymtech.net/network-components/mixnode/717||
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|730 687 NOIS|[noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556](https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556)| Yes |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 402 000 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 9 652 225 PICA |[centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne](https://explorer.nodexcapital.com/composable/staking/centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne)| Yes |
 
 ### ZKP ceremonies
 | Project | Number | Address | Date|
@@ -99,7 +99,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 [<img height="40" width="40" src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" />](https://sui.io/)
 [<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/IronFish_logo.jpg" />](https://ironfish.network/)
 [<img height="40" width="40" src="https://ffnews.com/wp-content/uploads/2022/07/1634502766235.jpg" />](https://www.minima.global/)
-[<img height="40" width="40" src="https://nymtech.net/images/social/logo-icon.png" />](https://nymtech.net/)
+[<img height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgQopZeDpOX85nkYWmpbCJeVd0VjoOwV4f60H5Pc&s" />](https://nymtech.net/)
 [<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/Aleo_logo.jpeg" />](https://www.aleo.org/)
 [<img height="40" width="40" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" />](https://near.org/)
 [<img height="40" width="40" src="https://icoholder.com/media/cache/ico_logo_view_page/files/img/7037eff01160f8cec99555e9243297c4.jpeg" />](https://www.kyve.network/)
