@@ -30,7 +30,6 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links | Genesis |
 | ------- |:---------:|:-----:|:-------:|
-|<img height="18" width="18" src="https://cryptologos.cc/logos/near-protocol-near-logo.png" /> Near Protocol|69 078 NEAR|https://nearscope.net/validator/trdm.poolv1.near/tab/dashboard||
 |<img height="18" width="18" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgQopZeDpOX85nkYWmpbCJeVd0VjoOwV4f60H5Pc&s" /> NYM|7 469 NYM|https://explorer.nymtech.net/network-components/mixnode/717||
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> Nois Network|730 687 NOIS|[noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556](https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556)| Yes |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 402 000 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
