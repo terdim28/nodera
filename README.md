@@ -22,8 +22,8 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
  
 <img height="16" width="16" src="https://cdn.simpleicons.org/twitter/28454D" /> <a href="https://twitter.com/NoderaTech">@NoderaTech</a>  
 <img height="16" width="16" src="https://cdn.simpleicons.org/discord/28454D" /> <a href="https://discord.gg/TmnKznRqnv">Nodera</a>  
-<img height="16" width="16" src="https://cdn.simpleicons.org/googlechrome/28454D" /> <a href="http://nodera.org/ ">Web</a>  
-<img height="16" width="16" src="https://github.com/terdim28/nodera/raw/main/logos/nodera_simple_logo.png" /> <a href="http://explorer.nodera.org/ ">Explorer</a>  
+<img height="16" width="16" src="https://cdn.simpleicons.org/googlechrome/28454D" /> <a href="http://nodera.tech/ ">Web</a>  
+<img height="16" width="16" src="https://github.com/terdim28/nodera/raw/main/logos/nodera_simple_logo.png" /> <a href="http://explorer.nodera.tech/ ">Explorer</a>  
 
 ## Portfolio
 
