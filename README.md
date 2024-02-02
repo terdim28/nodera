@@ -36,7 +36,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 9 652 225 PICA |[centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne](https://explorer.nodexcapital.com/composable/staking/centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne)| Yes |
 |<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" /> [Massa](thttps://massa.net/)| 12 000 MASSA |[AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf](https://explorer.massa.net/mainnet/address/AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf)| Yes |
 |<img height="18" width="18" src="https://img.cryptorank.io/coins/muon1635170931930.png" /> [Muon](https://muon.net/)| 1629 PION |[0xc85ac54817b68673268423DCd3F124524D91E47B](https://explorer.muon.net/pion/nodes/124)| Yes |
-
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" /> [ZetaChain](https://www.zetachain.com/)| 112 ZETA | [zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah](https://hub.zetachain.com/staking/zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah) | |
 ### ZKP ceremonies
 | Project | Number | Address | Date|
 | ------- |:------:| ------- | ---|
