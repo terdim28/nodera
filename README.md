@@ -34,9 +34,10 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1640408357142970376/nmI7YiMb_400x400.jpg" /> [Nois Network](https://nois.network/)|814 061 NOIS|[noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556](https://nois.explorers.guru/validator/noisvaloper1vujfft38ggemn4jzxv2z427yl950396jcq5556)| Yes |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 402 000 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validator/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1600505305829462020/Qg4_lPgJ_400x400.jpg" /> [Composable](https://www.composable.finance/)| 9 652 225 PICA |[centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne](https://explorer.nodexcapital.com/composable/staking/centaurivaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh0zcxtne)| Yes |
-|<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" /> [Massa](https://massa.net/)| 12 100 MASSA |[AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf](https://explorer.massa.net/mainnet/address/AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf)| Yes |
+|<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/11/MassaLabs_logo.jpeg" /> [Massa](https://massa.net/)| 45 900 MASSA |[AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf](https://explorer.massa.net/mainnet/address/AU1b1sTELwoUaNDuDvqxr6feoefmG9LFdmkb1pFSPg7jugftYfZf)| Yes |
 |<img height="18" width="18" src="https://img.cryptorank.io/coins/muon1635170931930.png" /> [Muon](https://muon.net/)| 1 629 PION |[0xc85ac54817b68673268423DCd3F124524D91E47B](https://explorer.muon.net/pion/nodes/124)| Yes |
-|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" /> [ZetaChain](https://www.zetachain.com/)| 112 ZETA | [zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah](https://hub.zetachain.com/staking/zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah) | |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" /> [ZetaChain](https://www.zetachain.com/)| 1 180 ZETA | [zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah](https://hub.zetachain.com/staking/zetavaloper1a24xcq8x7ae9vnhmf78ucfuddw0x272c25uvah) | |
+|<img height="18" width="18" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4263.png" /> [BitCanna](https://www.bitcanna.io/)| 403 000 BCNA | [bcnavaloper1ynffwy34daavtc4zjjd2n5w7j5rq0n8z6smw8d](https://ping.pub/bitcanna/staking/bcnavaloper1ynffwy34daavtc4zjjd2n5w7j5rq0n8z6smw8d) | |
 ### ZKP ceremonies
 | Project | Number | Address | Date|
 | ------- |:------:| ------- | ---|
@@ -44,6 +45,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://assets-global.website-files.com/61bc937bb545e71ad60f720e/61d70a35a030578fb621490d_Logo%20Color.svg" /> [Manta Network](https://www.manta.network/)|#220|018f88ff04831419bc6c4d70ae4e89dc|11/2022|
 |<img height="18" width="18" src="https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-11662225468t3ckimsgp8.png" /> [Etherium KZG](https://ceremony.ethereum.org/)|#7838|0xcab79fc4a49051ff0f7bccf93382855dc752662|01/2023|
 |<img height="18" width="18" src="https://icodrops.com/wp-content/uploads/2021/04/IronFish_logo.jpg" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|02/2023|
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1456245067149103104/CrNB0cKl_400x400.jpg" /> [Penumbra](https://penumbra.zone/)|#374|DB3ED1465EE2D0FC3DE5D229739192E960D23708CDEDE570CA2BC4D9EF3A396C|04/2024|
 
 ### Current testnets
 
@@ -97,7 +99,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 [<img height="40" width="40" src="https://img.api.cryptorank.io/coins/aztec1671431774571.png" />](https://aztec.network/)
 
 #### Other projects
-[<img height="40" width="40" src="https://moonnetwork.online/moonlogo.png" />](https://muon.net/)
+[<img height="40" width="40" src="https://img.cryptorank.io/coins/muon1635170931930.png" />](https://muon.net/)
 [<img height="40" width="40" src="https://s2.coinmarketcap.com/static/img/coins/200x200/20947.png" />](https://sui.io/)
 [<img height="40" width="40" src="https://icodrops.com/wp-content/uploads/2021/04/IronFish_logo.jpg" />](https://ironfish.network/)
 [<img height="40" width="40" src="https://ffnews.com/wp-content/uploads/2022/07/1634502766235.jpg" />](https://www.minima.global/)
