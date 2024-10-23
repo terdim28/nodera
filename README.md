@@ -29,7 +29,8 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 ### Mainnets
 | Project | Poll Size | Links | Genesis |
 | ------- |:---------:|:-----:|:-------:|
-|<img height="18" width="18" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" /> [Ethereum (Lido + Obol Cluster)](https://lido.fi/ethereum)| 162 ETH |[0x97dE5243906035a503F2F1C52513a3e2D5080Da5](https://launchpad.obol.org/cluster/details/?lockHash=0x730527945b780ed07813d81ff8c8b18aa38809ab33bdc7b6519a08d98ef83549)| Yes |
+|<img height="18" width="18" src="https://cdn.worldvectorlogo.com/logos/ethereum-eth.svg" /> [Ethereum (Lido + Obol Cluster)](https://lido.fi/ethereum)| 4 800 ETH |[0x97dE5243906035a503F2F1C52513a3e2D5080Da5](https://launchpad.obol.org/cluster/details/?lockHash=0x730527945b780ed07813d81ff8c8b18aa38809ab33bdc7b6519a08d98ef83549)| |
+|<img height="18" width="18" src="https://www.block-chain24.com/sites/default/files/crypto/ssv.nerwork_ssv_coin_icon.png" /> [Ethereum (Lido + SSV Cluster)](https://lido.fi/)| 640 ETH |[0x17400E3165EED40c32Fe22059285b5caDc053F3a](https://explorer.ssv.network/operators/1017)| |
 |<img height="18" width="18" src="https://s1.coincarp.com/logo/1/massa.png?style=200" /> [Massa](https://massa.net/)| 64 800 MASSA |[AU12QEWGWi342ufbisoA741G8Pfk3WPZVQdvsnJnqGgin5c8vUvYc](https://explorer.massa.net/mainnet/address/AU12QEWGWi342ufbisoA741G8Pfk3WPZVQdvsnJnqGgin5c8vUvYc/)| Yes |
 |<img height="18" width="18" src="https://cdn.prod.website-files.com/65e0e9d85394f4f9ab8db7fc/6656e3b376198b989b08febb_picasso-icon.svg" /> [Picasso](https://www.composable.finance/)| 9 673 078 PICA |[picavaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh08sd6qv](https://explorer.stavr.tech/Composable-Mainnet/staking/picavaloper1pw9ytrr9gcjctduuh9nr79wrygkmfmh08sd6qv)| Yes |
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1440291565302284304/0r9YJOJW_400x400.png" /> [Gitopia](https://gitopia.com/)| 400 000 LORE |[gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt](https://gitopia.exploreme.pro/validators/gitopiavaloper1gx6j9sjdh8jezxzsf3m4taj9m79ehhrnuz3prt)| Yes |
@@ -38,6 +39,7 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsgQopZeDpOX85nkYWmpbCJeVd0VjoOwV4f60H5Pc&s" /> [NYM](https://nymtech.net/)|7 469 NYM|https://explorer.nymtech.net/network-components/mixnode/717||
 |<img height="18" width="18" src="https://s2.coinmarketcap.com/static/img/coins/64x64/4263.png" /> [BitCanna](https://www.bitcanna.io/)| 403 000 BCNA | [bcnavaloper1ynffwy34daavtc4zjjd2n5w7j5rq0n8z6smw8d](https://ping.pub/bitcanna/staking/bcnavaloper1ynffwy34daavtc4zjjd2n5w7j5rq0n8z6smw8d) | |
 |<img height="18" width="18" src="https://img.cryptorank.io/coins/muon1635170931930.png" /> [Muon](https://muon.net/)| 1 629 PION |[0xc85ac54817b68673268423DCd3F124524D91E47B](https://explorer.muon.net/pion/nodes/124)| Yes |
+|<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1729321033868423168/rpmQCnAn_400x400.jpg" /> [Atomone](https://atom.one/)| 103 ATONE |[atone14uurrezjdej0h45cdpdutqg8kgnmvxga6q9ze7](https://explorer.allinbits.services/atomone/staking/atonevaloper14uurrezjdej0h45cdpdutqg8kgnmvxgacawtnx)| |
 ### ZKP ceremonies
 | Project | Number | Address | Date|
 | ------- |:------:| ------- | ---|
@@ -46,7 +48,6 @@ In the summer of '22, I founded Nodera - a group committed to establishing a com
 |<img height="18" width="18" src="https://www.citypng.com/public/uploads/preview/ethereum-eth-round-logo-icon-png-11662225468t3ckimsgp8.png" /> [Etherium KZG](https://ceremony.ethereum.org/)|#7838|0xcab79fc4a49051ff0f7bccf93382855dc752662|01/2023|
 |<img height="18" width="18" src="https://avatars.githubusercontent.com/u/43299557?s=280&v=4" /> [Ironfish](https://ironfish.network/)|#1221|bd9c8c9e 87d412a2 96eb3274 c6cee039|02/2023|
 |<img height="18" width="18" src="https://pbs.twimg.com/profile_images/1456245067149103104/CrNB0cKl_400x400.jpg" /> [Penumbra](https://penumbra.zone/)|#374|DB3ED1465EE2D0FC3DE5D229739192E960D23708CDEDE570CA2BC4D9EF3A396C|04/2024|
-allora 
 
 ### Current testnets
 
@@ -77,7 +78,6 @@ allora
 #### Cosmos ecosystem 
 
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1626225438849929218/h_HtSU1a_400x400.jpg" />](https://www.zetachain.com/)
-[<img height="40" width="40" src="https://haqq.network/assets/media-kit/islamic-mark.png" />](https://islamiccoin.net/)
 [<img height="40" width="34" src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c3e17eb0e3930d04ddd8_hero-nebula-logo-svg.svg" />](https://andromedaprotocol.io/)
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1591262611617722370/VkRLHBBe_400x400.jpg" />]()
 [<img height="40" width="40" src="https://pbs.twimg.com/profile_images/1404854187721203715/zZp1s7c3_400x400.jpg" />](https://celestia.org/)
